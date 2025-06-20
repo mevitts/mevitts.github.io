@@ -6,15 +6,18 @@
 </style>
 
 # Matt Evitts
-<div class="auburn-header">Software Engineer at CosoLogic | Auburn University CS '25, Cum Laude</div>
+<div class="auburn-header">Software Engineer Intern at CosoLogic | Auburn University Computer Science '25, Cum Laude | Certification in Artificial Intelligence Engineering</div>
 
 ---
 
 ## About Me
-I'm a Software Engineer at CosoLogic, specializing in Generative AI and data integration. A recent graduate from Auburn University's Samuel Ginn College of Engineering (Class of 2025), I completed my B.S. in Computer Science with a Certificate in Artificial Intelligence Engineering, graduating Cum Laude (GPA 3.6). Through my academic excellence and professional experience, I've developed a strong foundation in AI/ML, software engineering, and data science.
+War Eagle! I am a recent graduate from Auburn University (Spring 2025), where I completed my B.S. in Computer Science with a Certification in Artificial Intelligence Engineering. I grew up and currently reside in the Philadelphia area, and am a HUGE Philadelphia sports fan. Some other hobbies include fitness, music, cooking, language learning, and cultural discovery (Hispanic culture in particular). I love to learn and discover new things, whether that is a new subgenre of music, a recipe or cooking hack, or breakthroughs and applications in the AI field.
+
+I am currently working as a Software Engineering Intern at CosoLogic, specializing in Generative AI and data integration, and frontend work. Through my academic and professional experience, I've developed a strong foundation in AI/ML, software engineering, and data science. 
 
 I'm passionate about leveraging cutting-edge technology to solve complex problems, with particular interests in:
 - Machine Learning and Predictive Modeling
+- Generative AI
 - Natural Language Processing and Conversational AI
 - Data Engineering and Analytics
 - Technical Solution Architecture
