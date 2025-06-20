@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: Mev's Portfolio
-description: A website to showcase my projects and progress.
+title: Matt Evitts | AI/ML Engineer
+description: AI/ML Engineer, Technical Solutions Architect, and Data Scientist specializing in generative AI and machine learning systems.
+show_downloads: true
+logo: https://github.com/mevitts.png
+github:
+  is_project_page: true
+  repository_url: https://github.com/mevitts
+  owner_url: https://github.com/mevitts
+  owner_name: Matt Evitts
