@@ -38,30 +38,24 @@ I'm passionate about leveraging cutting-edge technology to solve complex problem
 
 ## Featured Projects
 
-### March Madness Tournament Predictor
+### [March Madness Tournament Predictor](https://github.com/mevitts/March_Madness)
 <div class="highlight">
 In this machine learning project, I built a model that could predict tournament outcomes with about 76% accuracy. Involving XGBoost and Gradient Boosting Classifiers implementations, along with using KenPom efficiency metrics & historical tournament data for training. These decisions and features were guided by thorough data visualization and statistical evaluation, helping highlight the most optimal features and most effective model. In this process, I created a reproducible data pipeline for efficient data extraction and model evaluation. The model was deployed to create predictions for this year's March Madness Tournament, and it achieved a total game accuracy of 61.9%, resulting inside the average accuracy score of a bracket (60-65%).
-
   
-  More details can be found [here](https://github.com/mevitts/March_Madness)
 </div>
 
 
-### Spanish Conversational Voice Bot
+### [Spanish Conversational Voice Bot](https://github.com/mevitts/spanish_chat_bot)
 <div class="highlight">
 An innovative language learning tool combining speech recognition, LLMs, and realistic text-to-speech capabilities to provide users with an immersive Spanish conversational experience. This project finetunes the (`whisper-small) model on Spanish audio for precise transcription, and deploys a comprehensive voice to voice interaction pipeline. Still in development, future plans are to use Spanish podcast audio and transcription data to further train the whisper model on more convsersation based audio. Being able to support a diverse range of Spanish accents which would include local slang and phrases is another feature to be added in the near future to improve the user's immersive experience.
 
-  
-  Repo with further details [here](https://github.com/mevitts/spanish_chat_bot)
 </div>
 
 
-### NBA Player Guesser
+### [NBA Player Guesser](https://github.com/mevitts/PlayerGuesser)
 <div class="highlight">
 An interactive game that functions similarly to the Akinator game, but specifically for NBA players using entropy based question selection. This project was developed using C# and MySQL, and integrated data from the BallDontLie and SportsDB APIs. The system features dynamic SQL filtering for efficient data retrieval and a modular question engine that uses information gain to intelligently guess the user's NBA player. 
 
-  
-  Repo [here](https://github.com/mevitts/PlayerGuesser)
 </div>
 
 
