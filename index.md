@@ -5,17 +5,18 @@
   .highlight { background-color: rgba(232, 97, 0, 0.1); padding: 0.5em; border-left: 3px solid #E86100; }
 </style>
 
+## Matt Evitts
+
 <div class="auburn-header">
   
   Software Engineer Intern at CosoLogic | Auburn University Computer Science '25, Cum Laude | Certification in Artificial Intelligence Engineering
-  
+
 </div>
 
+--- 
+
 ## Contact & Links
-- [LinkedIn](https://www.linkedin.com/in/matthew-evitts/)
-- [GitHub](https://github.com/mevitts)
-- [Email](mailto:martevitts@gmail.com)
-- [Download Resume](mevitts717.pdf)
+[LinkedIn](https://www.linkedin.com/in/matthew-evitts/) | [GitHub](https://github.com/mevitts) | [Email](mailto:martevitts@gmail.com) | [Download Resume](mevitts717.pdf)
   
 ---
 
