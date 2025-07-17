@@ -6,7 +6,11 @@
 </style>
 
 # Matt Evitts
-<div class="auburn-header">Software Engineer Intern at CosoLogic | Auburn University Computer Science '25, Cum Laude | Certification in Artificial Intelligence Engineering</div>
+<div class="auburn-header">
+  
+  Software Engineer Intern at CosoLogic | Auburn University Computer Science '25, Cum Laude | Certification in Artificial Intelligence Engineering
+  
+</div>
 
 ---
 
@@ -31,19 +35,12 @@ I'm passionate about leveraging cutting-edge technology to solve complex problem
 
 ## Technical Skills
 - **Programming/Frameworks:** Python, C#, SQL, TTS Models, RAG Architectures, Word2Vec, Scikit-Learn, Tensorflow, Keras, XGBoost, Pandas, Seaborn
-- **Tools & Technologies:** FastAPI, AI Model Integration, Git, RESTful APIs, Docker
+- **Tools & Technologies:** FastAPI, AI Model Integration, Git, RESTful APIs, Docker, Google Cloud, AWS
 - **Languages:** Near fluent Spanish
 - **Methodologies:** Agile, Data Pipeline Development, Feature Engineering, Software Development Life Cycle (SDLC)
 - **Frontend:** React
 
 ## Featured Projects
-
-### [March Madness Tournament Predictor](https://github.com/mevitts/March_Madness)
-<div class="highlight">
-In this machine learning project, I built a model that could predict tournament outcomes with about 76% accuracy. Involving XGBoost and Gradient Boosting Classifiers implementations, along with using KenPom efficiency metrics & historical tournament data for training. These decisions and features were guided by thorough data visualization and statistical evaluation, helping highlight the most optimal features and most effective model. In this process, I created a reproducible data pipeline for efficient data extraction and model evaluation. The model was deployed to create predictions for this year's March Madness Tournament, and it achieved a total game accuracy of 61.9%, resulting inside the average accuracy score of a bracket (60-65%).
-  
-</div>
-
 
 ### [Spanish Conversational Voice Bot](https://github.com/mevitts/spanish_chat_bot)
 <div class="highlight">
@@ -51,13 +48,17 @@ An innovative language learning tool combining speech recognition, LLMs, and rea
 
 </div>
 
-
-### [NBA Player Guesser](https://github.com/mevitts/PlayerGuesser)
+### [Repo Analyzer AI](https://github.com/mevitts/Repo-Analyzer-AI)
 <div class="highlight">
-An interactive game that functions similarly to the Akinator game, but specifically for NBA players using entropy based question selection. This project was developed using C# and MySQL, and integrated data from the BallDontLie and SportsDB APIs. The system features dynamic SQL filtering for efficient data retrieval and a modular question engine that uses information gain to intelligently guess the user's NBA player. 
-
+A multi-agent AI pipeline built with Google's ADK that performs a comprehensive, architectural analysis of a software repository. I plan on adding a web interface, a repo comparison feature in the near future, and also plan on using RAG to incorporate a chat bot that can answer the user's questions about the repository.
+  
 </div>
 
+### [March Madness Tournament Predictor](https://github.com/mevitts/March_Madness)
+<div class="highlight">
+In this machine learning project, I built a model that could predict tournament outcomes with about 76% accuracy. Involving XGBoost and Gradient Boosting Classifiers implementations, along with using KenPom efficiency metrics & historical tournament data for training. These decisions and features were guided by thorough data visualization and statistical evaluation, helping highlight the most optimal features and most effective model. In this process, I created a reproducible data pipeline for efficient data extraction and model evaluation. The model was deployed to create predictions for this year's March Madness Tournament, and it achieved a total game accuracy of 61.9%, resulting inside the average accuracy score of a bracket (60-65%).
+  
+</div>
 
 **Other projects include:**
 - [VLM PDF Parser for RAG (Docling & Ollama Integration)](https://github.com/mevitts/Docling.VLM.RAGProcessor): Combines Docling and Ollama to prepare data for use in RAG systems by intelligently processing documents of different formats (pdf, pptx, docx, etc.). It focuses on extracting and structuring content from various complex layouts, and uses VLM capabilities to create detailed descriptions of extracted images to further increase document understanding.
@@ -68,12 +69,12 @@ An interactive game that functions similarly to the Akinator game, but specifica
 ## Professional Experience
 
 ### CosoLogic (Remote)
-**Software Engineer – Generative AI, UI and Data Integration** *(May 2025 - Present)*
-At my current position, I am getting hands-on experience on a wide variety of ___. I have deployed and integrated an automated data pipeline that churns out real-time analytics into a full-stack data exploration platform, using React and TypeScript on the frontend. Also, I have conducted research on different AI-driven solutions for document parsing to prepare data for Retrieval Augmented Generation (RAG) systems. This eventually led to my current work in developing a system that leverages Docling and Ollama's Llava Vision Model to extract document text, images, and add in image descriptions to be used in RAG systems.
+**Frontend Developer – Generative AI, UI and Data Integration** *(May 2025 - Present)*
+At my current position, I am getting hands-on experience on a wide variety of ___. I have deployed and integrated an automated data pipeline that churns out real-time analytics into a full-stack data exploration platform, using React and TypeScript on the frontend. Also, I have conducted research on different AI-driven solutions for document parsing to prepare data for Retrieval Augmented Generation (RAG) systems. This eventually led to my current work in developing a system that leverages Docling and OpenAI's API to extract document text, images, and add in image descriptions to be used in RAG systems.
 
 ### Hexagon Asset Lifecycle Intelligence (Huntsville, AL)
-**Software Automation Engineering Intern**
-During this internship, I developed 22 internal automation tools using .NET, which significantly optimized operational efficiency. These solutions successfully reduced setup times from hours or even days to mere minutes. My contributions included building custom command scripts and developing user-friendly WinForms GUIs, with direct presentation of technical results to key stakeholders.
+**Software Automation Engineer**
+During this position, I developed 22 internal automation tools using .NET, which significantly optimized operational efficiency. These solutions successfully reduced setup times from hours or even days to mere minutes. My contributions included building custom command scripts and developing user-friendly WinForms GUIs, with direct presentation of technical results to key stakeholders.
 
 ### TESICNOR (Pamplona, Spain)
 **International Engineering Intern**
