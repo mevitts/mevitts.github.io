@@ -5,13 +5,18 @@
   .highlight { background-color: rgba(232, 97, 0, 0.1); padding: 0.5em; border-left: 3px solid #E86100; }
 </style>
 
-# Matt Evitts
 <div class="auburn-header">
   
   Software Engineer Intern at CosoLogic | Auburn University Computer Science '25, Cum Laude | Certification in Artificial Intelligence Engineering
   
 </div>
 
+## Contact & Links
+- [LinkedIn](https://www.linkedin.com/in/matthew-evitts/)
+- [GitHub](https://github.com/mevitts)
+- [Email](mailto:martevitts@gmail.com)
+- [Download Resume](mevitts717.pdf)
+  
 ---
 
 ## About Me
@@ -79,12 +84,6 @@ During this position, I developed 22 internal automation tools using .NET, which
 ### TESICNOR (Pamplona, Spain)
 **International Engineering Intern**
 As an International Engineering Intern, my responsibilities encompassed a broad range of engineering tasks, including designing and creating controller adapters for VR training simulations in forest fire combat. This design process involved 3D modeling with Blender. Also, I regularly collaborated with company representatives, presenting project progress and technical results during weekly reviews. Furthermore, working daily in a bilingual environment provided consistent opportunities to actively apply and refine my Spanish language skills.
-
-## Contact & Links
-- [LinkedIn](https://www.linkedin.com/in/matthew-evitts/)
-- [GitHub](https://github.com/mevitts)
-- [Email](mailto:martevitts@gmail.com)
-- [Download Resume](./context/resume_matt_evitts_60325.docx)
 
 ---
 
