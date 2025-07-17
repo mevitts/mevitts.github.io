@@ -4,5 +4,5 @@ description: Software Engineering Intern with a strong interest in AI/ML enginee
 show_downloads: true
 logo: https://github.com/mevitts.png
 github:
-  is_project_page: true
+  is_project_page: false
   repository_url: https://github.com/mevitts
